@@ -1,1 +1,15 @@
-﻿
+﻿Drycker,Coca Cola
+Frukt_Grönt,frukt
+Skafferi,krossade tomater
+Godis_Snacks,lakrits
+Drycker,Loka
+Mejeri_Ägg_Ost,mjölk
+Färdigmat,pizza
+Frukt_Grönt,potatis
+Kryddor_Smaksättning,salt
+Mejeri_Ägg_Ost,smör
+Hygien,tandkräm
+Hygien,toapapper
+Skafferi,tomatpure
+Mejeri_Ägg_Ost,ägg
+Kött_Chark,pålägg

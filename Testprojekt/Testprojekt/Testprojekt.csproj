@@ -44,6 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IStore.cs" />
+    <Compile Include="StoreStructure.cs" />
     <Compile Include="MyForm.cs">
       <SubType>Form</SubType>
     </Compile>
